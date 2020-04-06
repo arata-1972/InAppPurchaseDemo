@@ -7,3 +7,5 @@ Google Play handles the checkout details so your app never has to process financ
 reliable, and secure experience.
 
 This demo Android app demonstrates implementation of in-app purchasing with google library for one-time products (no subs).
+
+![alt text](in-app.png)
